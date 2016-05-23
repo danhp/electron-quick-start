@@ -1,3 +1,5 @@
+const fs = require('fs');
+console.log(fs);
 const electron = require('electron')
 // Module to control application life.
 const app = electron.app
